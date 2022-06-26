@@ -1,4 +1,4 @@
-# AqvanaHack3
+# Aqvana
 This is Aqvana, a portmanteau of Aqua and Nirvana, symbolizing our hope that this app will provide a insight into the background of our drinking water.
 
 # Usage
